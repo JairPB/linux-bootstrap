@@ -1,0 +1,15 @@
+2048.c
+ani-cli
+appflowy-bin
+ascii-image-converter
+bastet
+brave-origin-nightly-bin
+elyprismlauncher-bin
+hyprcaffeine
+librewolf-bin
+omniget-bin
+pamac-all
+snake
+snapd
+tetro-tui
+zotero-bin
